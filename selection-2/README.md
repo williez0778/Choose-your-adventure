@@ -7,10 +7,10 @@ You decided to move on from staying in place and you faced into a troll what do 
 * [Attack the troll](../selection-4/README.md)
 * [Try and run](../selection-5/README.md)
 
-![](Troll.jpeg)
+![](Troll.jpg)
 ---
 
-* Photo credit to [devian](https://www.deviantart.com/gorrem/art/LOTRO-Cave-Troll-98170046)
+* Photo credit to [toylab](https://www.toylabs.us/2015/12/does-doomsday-look-more-like.html)
 
 ---
 [Go back to main page](../README.md)
