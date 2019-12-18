@@ -3,7 +3,7 @@
 
 ---
 
-![](Blackness.jpg)
+![](Darkness.jpg)
 * Credit to ... anyone can make this image
 
 ---
