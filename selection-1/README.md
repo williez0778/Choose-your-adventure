@@ -3,7 +3,7 @@
 ---
 
 * [Choose to stay in place and check inventory](../selection-2/README.md)
-* [Walk forward into the darkness]()
+* [Walk forward into the darkness](../selection-3/README.md)
 
 ![](Cave.jpg)
 Photo credit to [flickr](https://www.flickr.com/photos/yvan_s/34500407863)

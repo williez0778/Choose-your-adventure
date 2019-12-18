@@ -4,10 +4,13 @@ You decided to move on from staying in place and you faced into a troll what do 
 
 ---
 
-* Attack the troll 
-* Try and run
+* [Attack the troll](../selection-4/README.md)
+* [Try and run](../selection-5/README.md)
 
 ![](Troll.jpeg)
-Photo credit to [devian](https://www.deviantart.com/gorrem/art/LOTRO-Cave-Troll-98170046)
+---
+
+* Photo credit to [devian](https://www.deviantart.com/gorrem/art/LOTRO-Cave-Troll-98170046)
+
 ---
 [Go back to main page](../README.md)
