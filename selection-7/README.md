@@ -4,7 +4,7 @@
 ---
 
 * [Fighting the monsters to the last breath](../ending-1.2/README.md)
-* [Run toward the castle to seek shelter]
+* [Run toward a castle to seek shelter](../selection-3/README.md)
 
 ![](Cave-of-fires.jpg)
 Photo credits go to [News](https://news.yahoo.com/cave-fire-ice-slideshow-wp-150034825.html)
