@@ -7,7 +7,7 @@
 * [Run toward a castle to seek shelter](../selection-3/README.md)
 
 ![](Cave-of-fires.jpg)
-Photo credits go to [News](https://news.yahoo.com/cave-fire-ice-slideshow-wp-150034825.html)
+* Photo credits go to [News](https://news.yahoo.com/cave-fire-ice-slideshow-wp-150034825.html)
 
 ---
 

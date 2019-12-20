@@ -7,7 +7,7 @@
 * [Beg the king for mercy](../selection-9/README.md)
 
 ![](Zelda.jpg)
-Credits go to [Zelda](https://www.zelda.com/)
+* Credits go to [Zelda](https://www.zelda.com/)
 
 ---
 

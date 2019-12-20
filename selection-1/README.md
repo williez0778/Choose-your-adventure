@@ -6,7 +6,7 @@
 * [Walk forward into the darkness](../selection-5/README.md)
 
 ![](Cave.jpg)
-Photo credit to [flickr](https://www.flickr.com/photos/yvan_s/34500407863)
+* Photo credit to [flickr](https://www.flickr.com/photos/yvan_s/34500407863)
 
 ---
 

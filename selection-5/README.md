@@ -7,7 +7,7 @@
 * [You decided to stay put and set up a camp](../selection-7/README.md)
 
 ![](Castle-In-Cave.jpg)
-Photo credit goes to [unusualplaces](https://unusualplaces.org/predjama-castle-the-castle-in-a-cave/)
+* Photo credit goes to [unusualplaces](https://unusualplaces.org/predjama-castle-the-castle-in-a-cave/)
 ---
 
 [Go back to main page](../README.md)

@@ -7,7 +7,7 @@
 * [I can only offer my service](../ending-1.3/README.md)
 
 ![](begging.jpg)
-Credit goes to [istockphoto](https://www.istockphoto.com/vector/concept-illustration-of-person-giving-holding-or-pulling-needy-asking-or-begging-gm1025760124-275132759)
+* Credit goes to [istockphoto](https://www.istockphoto.com/vector/concept-illustration-of-person-giving-holding-or-pulling-needy-asking-or-begging-gm1025760124-275132759)
 
 ---
 
